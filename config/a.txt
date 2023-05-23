@@ -1,0 +1,4 @@
+{"data":{"alert_id":"20230522150427","alert_type":"DROWSINESS","dashcam":"","media":"https://drive.google.com/file/d/1gpiYYQjTMZDC2-gIMvQZQyoGYuyn8vFf/preview","severity":"HIGH_SEVERITY","speed":0},"device_id":"DMS_TABLE_TOP2","event":"DMS","ignition":1,"message":12,"td":{"alat":"0","alng":"0","date":"20230522","dv":"A","lat":"18.559017","lng":"73.792766","nsv":"1","rssi":"0","spd":"0","utc":"093427"},"timestamp":1684748067,"trip_id":"20230522145715"}
+
+
+{"data":{"alert_id":"20230522150427","alert_type":"DROWSINESS","dashcam":"","media":"https://drive.google.com/file/d/1gpiYYQjTMZDC2-gIMvQZQyoGYuyn8vFf/preview","severity":"HIGH_SEVERITY","speed":0},"device_id":"DMS_TABLE_TOP2","event":"DMS","ignition":1,"message":12,"td":{"alat":"0","alng":"0","date":"20230522","dv":"A","lat":"18.559017","lng":"73.792766","nsv":"1","rssi":"0","spd":"0","utc":"093427"},"timestamp":1684748067,"trip_id":"20230522145715"}
